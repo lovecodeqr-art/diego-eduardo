@@ -19,7 +19,7 @@ const CONFIG = {
     
     // ===== CONFIGURAÇÃO DE MÚSICA DO YOUTUBE =====
     nomeMusica: "Justin Bieber - Hold On", // Nome que aparecerá no player
-    youtubeId: "1WHPExTeOw",                     // ID do vídeo do YouTube
+    youtubeId: "1WHPExTeOwg",                     // ID do vídeo do YouTube
     // ==============================================
 
     // Texto romântico principal da página
